@@ -7,4 +7,3 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=bemnetzolabura&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bemnetzolabura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0FZSUVxUtZa2g7Vlky9diq?utm_source=generator&si=a776f6a1da704a61" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
